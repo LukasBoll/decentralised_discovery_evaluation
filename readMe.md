@@ -1,5 +1,8 @@
 Install python 3.0 +
 install [pm4py](https://pm4py.fit.fraunhofer.de/install)
+
+create a postgres databas with tables according to the config files in the backend folders
+add libs to libraries
 start all servers in the backend directory
 start the frontend
 
